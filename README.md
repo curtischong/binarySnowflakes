@@ -1,13 +1,13 @@
-# binarySnowflakes
+# BinarySnowflakes
 Javascript Plugin that creates Binary snowflakes in the background
 
-# features
+# Features
 Ability to create a cool binary snowflake background for your website
 Ability to change the rate of snowflake spawning
 Ability to change the speed of snowflake fading
 Ability to change the snowflake colours
 
-# instructions
+# Instructions
 Just link the javascript snowflake file at the bottom of your page and create an html canvas
 
 <script src="binarySnowflakes.js"></script>
