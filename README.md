@@ -3,8 +3,11 @@ Javascript Plugin that creates Binary snowflakes in the background
 
 # Features
 Ability to create a cool binary snowflake background for your website
+
 Ability to change the rate of snowflake spawning
+
 Ability to change the speed of snowflake fading
+
 Ability to change the snowflake colours
 
 # Instructions
