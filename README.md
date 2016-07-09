@@ -15,11 +15,11 @@ Just link the javascript snowflake file at the bottom of your page and create an
 ```
 <script src="binarySnowflakes.js"></script>
 ```
-each canvas should look like this:
+Each canvas should look like this:
 ```
 <canvas id="binarySnowflakeCanvas"></canvas>
 ```
 
-it will fit the width and height of the viewing container. You can mess around with the CSS to fit your application
+It will fit the width and height of the viewing container. You can mess around with the CSS to fit the needs of your application
 
 There is a demo of this plugin included in the folder, just open the html file and see the plugin in action!
